@@ -3,6 +3,7 @@
 
 Bu proje, kullanıcıların seçtikleri bir şehir için hava durumu bilgisini almasını sağlayan bir Python uygulamasıdır.
 Uygulama, Gradio kütüphanesi ile bir arayüz sunar ve OpenWeather API'sini kullanarak gerçek zamanlı hava durumu verilerini sağlar.
+-->[![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/HavaDurumu)
 
 ## Özellikler
 
