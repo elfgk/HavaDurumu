@@ -18,11 +18,7 @@ Uygulama, Gradio kütüphanesi ile bir arayüz sunar ve OpenWeather API'sini kul
 Proje deposunu yerel makinenize klonlayın
 
 2. Gerekli Kütüphaneleri Yükleyin
-Projenin çalışması için gerekli kütüphaneleri requirements.txt dosyasından yükleyin:
-
-```bash
-pip install -r requirements.txt
-```
+Projenin çalışması için gerekli kütüphaneleri yükleyin.
 
 3. API Anahtarı Edinin
 OpenWeather API platformundan bir API anahtarı alın.
