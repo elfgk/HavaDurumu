@@ -4,7 +4,7 @@
 Bu proje, kullanıcıların seçtikleri bir şehir için hava durumu bilgisini almasını sağlayan bir Python uygulamasıdır.
 Uygulama, Gradio kütüphanesi ile bir arayüz sunar ve OpenWeather API'sini kullanarak gerçek zamanlı hava durumu verilerini sağlar.
 
-# Özellikler
+## Özellikler
 
 Kullanıcıdan şehir adı alır.
 OpenWeather API üzerinden hava durumu verilerini çeker.
@@ -13,7 +13,7 @@ Hava durumu açıklaması Türkçe olarak sunulur.
 Kullanıcı dostu bir web arayüzüne sahiptir.
 
 
-# Kurulum
+## Kurulum
 1. Depoyu Klonlayın
 Proje deposunu yerel makinenize klonlayın
 
