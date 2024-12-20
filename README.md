@@ -6,11 +6,11 @@ Uygulama, Gradio kütüphanesi ile bir arayüz sunar ve OpenWeather API'sini kul
 
 ## Özellikler
 
-Kullanıcıdan şehir adı alır.
-OpenWeather API üzerinden hava durumu verilerini çeker.
-Sıcaklık bilgisi Celsius cinsinden gösterilir.
-Hava durumu açıklaması Türkçe olarak sunulur.
-Kullanıcı dostu bir web arayüzüne sahiptir.
+* Kullanıcıdan şehir adı alır.
+* OpenWeather API üzerinden hava durumu verilerini çeker.
+* Sıcaklık bilgisi Celsius cinsinden gösterilir.
+* Hava durumu açıklaması Türkçe olarak sunulur.
+* Kullanıcı dostu bir web arayüzüne sahiptir.
 
 
 ## Kurulum
